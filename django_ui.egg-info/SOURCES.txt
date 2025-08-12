@@ -1,0 +1,17 @@
+MANIFEST.in
+README.rst
+pyproject.toml
+django_ui/__init__.py
+django_ui/admin.py
+django_ui/apps.py
+django_ui/models.py
+django_ui/tests.py
+django_ui/views.py
+django_ui.egg-info/PKG-INFO
+django_ui.egg-info/SOURCES.txt
+django_ui.egg-info/dependency_links.txt
+django_ui.egg-info/requires.txt
+django_ui.egg-info/top_level.txt
+django_ui/migrations/__init__.py
+django_ui/static/css/index.css
+django_ui/templatetags/django_ui_assets.py
